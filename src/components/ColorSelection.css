@@ -1,0 +1,32 @@
+/* .buttons--div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin: auto;
+    margin-bottom: 5%;
+  }
+   */
+
+
+  .colour--selector {
+    display: flex;
+    background: linear-gradient(130.53deg, #404040 17.47%, #404040 27.71%, #B0B0B0 27.72%, #B0B0B0 36.75%, #404040 36.76%, #404040 45.49%, #B0B0B0 45.5%, #B0B0B0 54.23%, #404040 54.24%, #404040 63.27%, #B0B0B0 63.27%, #B0B0B0 71.71%, #404040 71.71%);
+    color: white;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    border: solid 2px white;
+    font-size: 50px;
+    align-items: center;
+    justify-content: center;
+    max-width: 60px;
+    max-height: 60px;
+    margin: auto;
+  }
+  
+  .colour--selector p{
+    text-align: center;
+    margin-top: 44px;
+  }
+  
